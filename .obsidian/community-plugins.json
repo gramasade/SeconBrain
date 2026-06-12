@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "plugins": [
+    "dataview",
+    "calendar",
+    "kanban",
+    "templater-obsidian",
+    "obsidian-excalidraw-plugin",
+    "quickadd",
+    "tag-wrangler",
+    "obsidian-tasks-plugin",
+    "periodic-notes",
+    "obsidian-style-settings"
+  ]
+}

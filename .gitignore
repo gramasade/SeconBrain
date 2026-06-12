@@ -1,0 +1,8 @@
+# Obsidian vault - Git Ignore
+
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/*/hot-reload.log
+trash/

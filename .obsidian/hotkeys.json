@@ -1,0 +1,8 @@
+{
+  "Templates:Insert template": "Ctrl-T",
+  "Daily notes:Open today's daily note": "Ctrl-Shift-D",
+  "Command palette:Open command palette": "Ctrl-P",
+  "Switcher:Open switcher": "Ctrl-O",
+  "Graph view:Open graph view": "Ctrl-Shift-G",
+  "Quick Add:Quick Add": "Ctrl-Shift-Q"
+}

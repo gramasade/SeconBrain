@@ -7,11 +7,11 @@ tags: [project, client, seo]
 area: career
 ---
 
-# PageShip — SEO Service
+# Biteship — SEO Service
 
 ## Client Overview
 
-- **Client:** PageShip
+- **Client:** Biteship
 - **Scope:** Full stack SEO (content, on-page, technical)
 - **Type:** Side project
 

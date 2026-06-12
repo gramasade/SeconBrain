@@ -14,7 +14,7 @@
 
 ### Side Projects
 - [[Bluebird - Goldenbird Funnel]] — funnel tracking
-- [[PageShip SEO]] — full stack SEO
+- [[Biteship SEO]] — full stack SEO
 - [[Kasir Pintar SEO]] — full stack SEO
 
 ## 🛠️ Skills & Learning

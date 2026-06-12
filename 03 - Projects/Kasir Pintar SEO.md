@@ -12,7 +12,7 @@ area: career
 ## Client Overview
 
 - **Client:** Kasir Pintar
-- **Scope:** Full stack SEO (same scope as PageShip)
+- **Scope:** Full stack SEO (same scope as Biteship)
 - **Type:** Side project
 
 ---

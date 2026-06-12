@@ -17,20 +17,28 @@ area: career
 ## Sub-Projects
 
 ### 1. CEO Handle
-- 
+- *Detail menyusul*
 
 ### 2. YCP Renoir — Service Page Revamp
-- 
+- **Scope:** SEO revamp untuk service pages
+- **Status:** Belum dimulai
+
+### 3. ISD LP GEO Offering Development
+- **Scope:** Landing page & GEO offering optimization
+- **Status:** Belum dimulai
 
 ---
 
 ## ✅ Tasklist
 
-- [ ] 
+- [ ] Breakdown task per sub-project
+- [ ] Cek current performance baseline per project
 
 ## 📝 Notes & Progress
 
 ### 2026-06-12 — Project note created
+- Sub-projects identified: CEO Handle, YCP Renoir Revamp, ISD LP GEO
+- Detail tiap sub-project akan diisi setelah diskusi
 
 ---
 

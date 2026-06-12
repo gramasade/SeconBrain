@@ -2,6 +2,7 @@
 
 .obsidian/workspace
 .obsidian/workspace.json
+.obsidian/types.json
 .obsidian/plugins/*/main.js
 .obsidian/plugins/*/styles.css
 .obsidian/plugins/*/hot-reload.log

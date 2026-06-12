@@ -16,7 +16,7 @@ area: career
 
 ## Sub-Projects
 
-### 1. CEO Handle
+### 1. Caranya CEO
 - *Detail menyusul*
 
 ### 2. YCP Renoir — Service Page Revamp
@@ -26,6 +26,10 @@ area: career
 ### 3. ISD LP GEO Offering Development
 - **Scope:** Landing page & GEO offering optimization
 - **Status:** Belum dimulai
+
+### 4. WACP Renoir Service Page Revamp (sisa dari proyek sebelumnya)
+- **Scope:** Service page revamp
+- **Status:** Menunggu klarifikasi
 
 ---
 

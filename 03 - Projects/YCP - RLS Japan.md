@@ -31,8 +31,10 @@ area: career
 
 ## 📝 Notes & Progress
 
-### 2026-06-12 — Project note created
-- Masih perlu dijabarkan scope detail dari project ini
+### 2026-06-14 — Monthly Report Mei 2026
+- [[MoM - Monthly Report Mei 2026]]
+- **Key Actions:** Mobile page speed fix ⭐, blog content expansion, keyword research
+- **Status:** Action items belum dieksekusi — baru selesai meeting
 
 ---
 
